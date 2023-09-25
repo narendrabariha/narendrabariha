@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lumenci.com%2Fpost%2Ffuture-of-ai&psig=AOvVaw1td4bnQlcUpicJyxzmUYUP&ust=1695753869894000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjAv8a1xoEDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Narendra Bariha</h1>
 <h3 align="center">A passionate Data Science from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
