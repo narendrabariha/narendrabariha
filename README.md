@@ -1,7 +1,8 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datanami.com%2F2022%2F11%2F21%2Fconversational-ai-poised-to-be-major-disrupter%2F&psig=AOvVaw1td4bnQlcUpicJyxzmUYUP&ust=1695753869894000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjAv8a1xoEDFQAAAAAdAAAAABAU)
+[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+
 <h1 align="center">Hi 👋, I'm Narendra Bariha</h1>
 <h3 align="center">A passionate Data Science from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble365.rssing.com%2Fchan-16408352%2Farticle143913.html&psig=AOvVaw1td4bnQlcUpicJyxzmUYUP&ust=1695753869894000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjAv8a1xoEDFQAAAAAdAAAAABAJ">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendrabariha&label=Profile%20views&color=0e75b6&style=flat" alt="narendrabariha" /> </p>
 
