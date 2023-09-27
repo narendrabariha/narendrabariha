@@ -1,4 +1,4 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/d2f479f8-2005-43ae-bb36-e90333fa8f19/Future_of_Artificial_Intelligence.gif)]
+[![MasterHead](https://blogs.dpuerp.in/Images/Blog/64/111-artificial-intelligence-a-modern-approach.jpg)]
 <h1 align="center">Hi 👋, I'm Narendra Bariha</h1>
 <h3 align="center">A passionate Data Science from India</h3>
 <img align="right" alt="Coding" width="450" height="200" src="https://media2.giphy.com/media/ITRemFlr5tS39AzQUL/200w.webp?cid=ecf05e470g8nb2wtgcsff21avulee5z029k9dvzzaantlf6p&ep=v1_gifs_search&rid=200w.webp&ct=g">
