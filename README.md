@@ -1,4 +1,4 @@
-[![MasterHead](https://blogs.dpuerp.in/Images/Blog/64/111-artificial-intelligence-a-modern-approach.jpg)]
+![logo](https://github.com/narendrabariha/narendrabariha/blob/main/Future_of_Artificial_Intelligence.gif)
 <h1 align="center">Hi 👋, I'm Narendra Bariha</h1>
 <h3 align="center">A passionate Data Science from India</h3>
 <img align="right" alt="Coding" width="200" height="200" src="https://media2.giphy.com/media/ITRemFlr5tS39AzQUL/200w.webp?cid=ecf05e470g8nb2wtgcsff21avulee5z029k9dvzzaantlf6p&ep=v1_gifs_search&rid=200w.webp&ct=g">
