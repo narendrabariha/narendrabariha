@@ -1,7 +1,7 @@
-<img align="center" alt="Coding" width="800" height="250" src="https://github.com/narendrabariha/narendrabariha/blob/main/Future_of_Artificial_Intelligence.gif">
+<img align="center" alt="Coding" width="800" height="230" src="https://github.com/narendrabariha/narendrabariha/blob/main/Future_of_Artificial_Intelligence.gif">
 <h1 align="center">Hi 👋, I'm Narendra Bariha</h1>
 <h3 align="center">A passionate Data Science from India</h3>
-<img align="right" alt="Coding" width="400" height="200" src="https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/d2f479f8-2005-43ae-bb36-e90333fa8f19/Future_of_Artificial_Intelligence.gif?format=1500w">
+<img align="right" alt="Coding" width="400" height="200" src="https://media.licdn.com/dms/image/C5612AQEgDiSQFdNCzw/article-cover_image-shrink_423_752/0/1652015501157?e=1701302400&v=beta&t=hWIEZ4GGViHn4DfsMMTjqWkJSO-pzktEP47wgNp5McY">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendrabariha&label=Profile%20views&color=0e75b6&style=flat" alt="narendrabariha" /> </p>
 
