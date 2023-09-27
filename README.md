@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="800" height="230" src="https://github.com/narendrabariha/narendrabariha/blob/main/Future_of_Artificial_Intelligence.gif">
 <h1 align="center">Hi 👋, I'm Narendra Bariha</h1>
 <h3 align="center">A passionate Data Science from India</h3>
-<img align="right" alt="Coding" width="400" height="200" src="https://media.licdn.com/dms/image/C5612AQEgDiSQFdNCzw/article-cover_image-shrink_423_752/0/1652015501157?e=1701302400&v=beta&t=hWIEZ4GGViHn4DfsMMTjqWkJSO-pzktEP47wgNp5McY">
+<img align="right" alt="Coding" width="400" height="200" src="https://blog.imarticus.org/wp-content/uploads/2020/10/fdsa.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendrabariha&label=Profile%20views&color=0e75b6&style=flat" alt="narendrabariha" /> </p>
 
