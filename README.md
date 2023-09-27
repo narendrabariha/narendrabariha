@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="800" height="200" src="https://github.com/narendrabariha/narendrabariha/blob/main/Future_of_Artificial_Intelligence.gif">
+<img align="center" alt="Coding" width="800" height="250" src="https://github.com/narendrabariha/narendrabariha/blob/main/Future_of_Artificial_Intelligence.gif">
 <h1 align="center">Hi 👋, I'm Narendra Bariha</h1>
 <h3 align="center">A passionate Data Science from India</h3>
 <img align="right" alt="Coding" width="400" height="200" src="https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/d2f479f8-2005-43ae-bb36-e90333fa8f19/Future_of_Artificial_Intelligence.gif?format=1500w">
