@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **narendrabarihan@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/narendra-bariha-2590621b6/](https://www.linkedin.com/in/narendra-bariha-2590621b6/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/narendra-bariha/](https://www.linkedin.com/in/narendra-bariha/)
 
 - ⚡ Fun fact **I am funny😎😉**
 
