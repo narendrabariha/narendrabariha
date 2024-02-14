@@ -37,3 +37,81 @@
 
 
 
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Narendra Bariha's GitHub Profile</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f8f9fa;
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    h1, h3 {
+      text-align: center;
+      color: #007bff;
+    }
+    .profile-img {
+      display: block;
+      margin: 0 auto;
+      border-radius: 50%;
+    }
+    .badge {
+      display: inline-block;
+      padding: 5px 10px;
+      background-color: #007bff;
+      color: #fff;
+      border-radius: 5px;
+      text-decoration: none;
+    }
+    .social-icons {
+      margin-top: 10px;
+    }
+    .social-icons img {
+      margin-right: 10px;
+      transition: transform 0.3s ease;
+    }
+    .social-icons img:hover {
+      transform: scale(1.2);
+    }
+    .stats {
+      margin-top: 20px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img class="profile-img" src="https://github.com/narendrabariha/narendrabariha/blob/main/Future_of_Artificial_Intelligence.gif" alt="Coding" width="200" height="200">
+    <h1>Hi 👋, I'm Narendra Bariha</h1>
+    <h3>A passionate Data Scientist from India</h3>
+    <div class="stats">
+      <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=narendrabariha&show_icons=true&locale=en&layout=compact" alt="Top Languages">
+      </div>
+      <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=narendrabariha&show_icons=true&locale=en" alt="GitHub Stats">
+      </div>
+    </div>
+    <div class="social-icons">
+      <a href="https://twitter.com/narendra_bariha" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="30"></a>
+      <a href="https://www.linkedin.com/in/narendra-bariha/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"></a>
+    </div>
+  </div>
+</body>
+</html>
+
+
+
