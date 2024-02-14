@@ -65,12 +65,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Narendra Bariha's GitHub Stats</title>
+<title>Narendra Bariha's Stats</title>
 <style>
   body {
     font-family: Arial, sans-serif;
-    background-color: #1f1f1f;
-    color: #fff;
+    background-color: #1a1a1a;
+    color: #ffffff;
     margin: 0;
     padding: 0;
   }
@@ -80,10 +80,12 @@
     padding: 20px;
   }
   h2 {
-    color: #f9826c;
+    color: #f0f0f0;
     text-align: center;
+    margin-bottom: 20px;
   }
   p {
+    text-align: center;
     margin-bottom: 20px;
   }
   img {
@@ -98,17 +100,11 @@
 <div class="container">
   <h2>GitHub Stats</h2>
 
-  <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narendrabariha&show_icons=true&locale=en&layout=compact" alt="narendrabariha" />
-  </p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narendrabariha&show_icons=true&locale=en&layout=compact&theme=dark" alt="narendrabariha" /></p>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=narendrabariha&show_icons=true&locale=en" alt="narendrabariha" />
-  </p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=narendrabariha&show_icons=true&locale=en&theme=dark" alt="narendrabariha" /></p>
 
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=narendrabariha&theme=dark" alt="narendrabariha" />
-  </p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narendrabariha&theme=dark" alt="narendrabariha" /></p>
 </div>
 </body>
 </html>
