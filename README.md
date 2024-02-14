@@ -31,22 +31,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narendrabariha&show_icons=true&locale=en" alt="narendrabariha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narendrabariha&" alt="narendrabariha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narendrabariha&" &t heme=vision-friendly-dark"  alt="narendrabariha" /></p>
 
 
 
 
-## :bar_chart:  My Stats
-
-<p align="center"> <b>Profile Views<b> 
-  <br>
-  <img src="https://profile-counter.glitch.me/{abhi0323}/count.svg" alt="narendrabariha"  />
-</p>
-
-<p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=abhi0323&theme=dark&background=000000" alt="GitHub Streak" />
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api?user=narendrabariha&show_icons=true&theme=merko" align="left" height=160em>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?user=narendrabariha&layout=compact&theme=vision-friendly-dark" align="right" height=160em>
 
