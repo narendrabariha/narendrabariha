@@ -12,9 +12,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/narendrabariha](https://github.com/narendrabariha)
 
-- 📫 How to reach me **narendrabarihan@gmail.com**
+- 📫 How to reach me
+- **narendrabarihan@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/narendra-bariha/](https://www.linkedin.com/in/narendra-bariha/)
+- 📄 Know about my experiences
+- [https://www.linkedin.com/in/narendra-bariha/](https://www.linkedin.com/in/narendra-bariha/)
 
 - ⚡ Fun fact **I am funny😎😉**
 
@@ -43,24 +45,5 @@
 <br>
   <img src="https://profile-counter.glitch.me/{narendrabariha}/count.svg" alt="narendrabariha" />
 </p>
-
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narendrabariha&show_icons=true&locale=en&layout=compact&theme=dark" alt="narendrabariha" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narendrabariha&show_icons=true&locale=en&theme=dark" alt="narendrabariha" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narendrabariha&theme=dark" alt="narendrabariha" />
-</p>
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narendrabariha&show_icons=true&locale=en&layout=compact&theme=dark" alt="narendrabariha" />
-</p>
-
-
 
 
