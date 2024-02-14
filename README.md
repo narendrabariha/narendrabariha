@@ -40,13 +40,13 @@
 
 <p align="center"> <b>Profile Views<b> 
   <br>
-  <img src="https://profile-counter.glitch.me/{abhi0323}/count.svg" alt="Profile Visits" />
+  <img src="https://profile-counter.glitch.me/{narendrabariha}/count.svg" alt="narendrabariha" />
 </p>
 
 <p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=abhi0323&theme=dark&background=000000" alt="GitHub Streak" />
+    <img src="http://github-readme-streak-stats.herokuapp.com/?user=narendrabariha&theme=dark&background=000000" alt="narendrabariha" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhi0323&show_icons=true&theme=merko" align="left" height=160em>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi0323&layout=compact&theme=vision-friendly-dark" align="right" height=160em>
+<img src="https://github-readme-stats.vercel.app/api?username=narendrabariha&show_icons=true&theme=merko" align="left" height=160em>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendrabariha&layout=compact&theme=vision-friendly-dark" align="right" height=160em>
 
