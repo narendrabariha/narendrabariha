@@ -6,6 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendrabariha&label=Profile%20views&color=0e75b6&style=flat" alt="narendrabariha" /> </p>
 
+
+<p align="center"> <b>Profile Views<b> 
+<br>
+  <img src="https://profile-counter.glitch.me/{narendrabariha}/count.svg" alt="narendrabariha" />
+</p>
+
 <p align="left"> <a href="https://twitter.com/narendra bariha" target="blank"><img src="https://img.shields.io/twitter/follow/narendra bariha?logo=twitter&style=for-the-badge" alt="narendra bariha" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Tableau, SQL, Advance Excel, PowerBI, Machine Learning, Deep Learning, NLP, Artificial Intelligence.**
