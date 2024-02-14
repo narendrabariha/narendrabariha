@@ -13,10 +13,10 @@
 - 👨‍💻 All of my projects are available at [https://github.com/narendrabariha](https://github.com/narendrabariha)
 
 - 📫 How to reach me
-- **narendrabarihan@gmail.com**
+ **narendrabarihan@gmail.com**
 
 - 📄 Know about my experiences
-- [https://www.linkedin.com/in/narendra-bariha/](https://www.linkedin.com/in/narendra-bariha/)
+  [https://www.linkedin.com/in/narendra-bariha/](https://www.linkedin.com/in/narendra-bariha/)
 
 - ⚡ Fun fact **I am funny😎😉**
 
