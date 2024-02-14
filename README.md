@@ -39,46 +39,99 @@
 
 
 
-<h1 align="center">Hi there, I'm Narendra Bariha 👋</h1>
-<h3 align="center">Passionate Data Scientist | AI Enthusiast | Python Developer</h3>
+<!DOCTYPE html>
+<html lang="en">
 
-<p align="center">
-  <img src="https://github.com/narendrabariha/narendrabariha/blob/main/Future_of_Artificial_Intelligence.gif" alt="Coding" width="800" height="230">
-</p>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Narendra Bariha</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f7f7f7;
+        }
 
-<p align="center">
-  <a href="https://twitter.com/narendrabariha" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/narendrabariha?style=social" alt="Twitter Follow">
-  </a>
-  <a href="https://www.linkedin.com/in/narendra-bariha/" target="_blank">
-    <img src="https://img.shields.io/badge/-narendrabariha-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/narendra-bariha/" alt="LinkedIn">
-  </a>
-</p>
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
 
-<h3 align="center">About Me</h3>
-<p align="center">
-  Hi, I'm Narendra Bariha, a passionate Data Scientist from India. I'm currently diving into various domains of Artificial Intelligence and Machine Learning, constantly expanding my skill set.
-</p>
+        h1,
+        h3 {
+            color: #333;
+        }
 
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <!-- Add more logos of your skills/tools here -->
-</p>
+        img {
+            max-width: 100%;
+            height: auto;
+        }
 
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="https://twitter.com/narendrabariha" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/narendrabariha?style=social&logo=twitter" alt="Twitter">
-  </a>
-  <a href="https://www.linkedin.com/in/narendra-bariha/" target="_blank">
-    <img src="https://img.shields.io/badge/-narendrabariha-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/narendra-bariha/" alt="LinkedIn">
-  </a>
-</p>
+        .social-icons a {
+            margin-right: 10px;
+        }
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narendrabariha&show_icons=true&theme=dark" alt="GitHub Stats">
-</p>
+        .social-icons img {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            transition: transform 0.3s ease;
+        }
 
+        .social-icons img:hover {
+            transform: scale(1.2);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1 align="center">Hi there, I'm Narendra Bariha 👋</h1>
+        <h3 align="center">Passionate Data Scientist | AI Enthusiast | Python Developer</h3>
+
+        <p align="center">
+            <img src="https://github.com/narendrabariha/narendrabariha/blob/main/Future_of_Artificial_Intelligence.gif" alt="Coding" width="800" height="230">
+        </p>
+
+        <p align="center" class="social-icons">
+            <a href="https://twitter.com/narendrabariha" target="_blank">
+                <img src="https://img.shields.io/twitter/follow/narendrabariha?style=social&logo=twitter" alt="Twitter Follow">
+            </a>
+            <a href="https://www.linkedin.com/in/narendra-bariha/" target="_blank">
+                <img src="https://img.shields.io/badge/-narendrabariha-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/narendra-bariha/" alt="LinkedIn">
+            </a>
+        </p>
+
+        <h3 align="center">About Me</h3>
+        <p align="center">
+            Hi, I'm Narendra Bariha, a passionate Data Scientist from India. I'm currently diving into various domains of Artificial Intelligence and Machine Learning, constantly expanding my skill set.
+        </p>
+
+        <h3 align="center">Languages and Tools</h3>
+        <p align="center">
+            <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python">
+            <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite">
+            <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow">
+            <!-- Add more logos of your skills/tools here -->
+        </p>
+
+        <h3 align="center">Connect with Me</h3>
+        <p align="center" class="social-icons">
+            <a href="https://twitter.com/narendrabariha" target="_blank">
+                <img src="https://img.shields.io/twitter/follow/narendrabariha?style=social&logo=twitter" alt="Twitter">
+            </a>
+            <a href="https://www.linkedin.com/in/narendra-bariha/" target="_blank">
+                <img src="https://img.shields.io/badge/-narendrabariha-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/narendra-bariha/" alt="LinkedIn">
+            </a>
+        </p>
+
+        <p align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=narendrabariha&show_icons=true&theme=dark" alt="GitHub Stats">
+        </p>
+    </div>
+</body>
+
+</html>
