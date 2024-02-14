@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narendrabariha&show_icons=true&locale=en" alt="narendrabariha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narendrabariha&" &t heme=vision-friendly-dark"  alt="narendrabariha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narendrabariha&"theme=vision-friendly-dark"  alt="narendrabariha" /></p>
 
 
 
@@ -40,3 +40,7 @@
 
 
 <p align="center"> <b>Profile Views<b> 
+<br>
+  <img src="https://profile-counter.glitch.me/{narendrabariha}/count.svg" alt="narendrabariha" />
+</p>
+
