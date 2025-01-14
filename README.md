@@ -15,17 +15,7 @@
 
 ---
 
-### 🌐 Let's Connect  
-<p align="left">
-  <a href="https://twitter.com/narendra_bariha" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/narendra_bariha?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/narendra-bariha/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
 
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,7 +30,7 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=narendrabariha&theme=radical" alt="GitHub Streak"/>
  
-
+ <img src="https://github-readme-stats.vercel.app/api?username=narendrabariha&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
 
 ### 🎉 Profile Counter
