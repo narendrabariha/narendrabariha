@@ -4,7 +4,6 @@
 ---
 
 
----
 
 ### 🌟 About Me
 - 🌱 Currently mastering **Python, Tableau, SQL, Power BI, Machine Learning, Deep Learning, NLP, and AI**.
