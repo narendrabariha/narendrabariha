@@ -39,8 +39,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narendrabariha&show_icons=true&locale=en&layout=compact" alt="narendrabariha" /></p>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=narendrabariha&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendrabariha&layout=compact&theme=radical" alt="Top Languages"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendrabariha&theme=radical" alt="Top Languages"/>
+ 
 
 </div>
 
