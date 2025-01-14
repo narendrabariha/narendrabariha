@@ -1,24 +1,31 @@
-<img align="center" alt="Coding" width="800" height="230" src="https://github.com/narendrabariha/narendrabariha/blob/main/Future_of_Artificial_Intelligence.gif">
-<h1 align="center">
-  Hi 👋, I'm Narendra Bariha </h1>
-<h3 align="center">A passionate Data Science from India</h3>
-<img align="right" alt="Coding" width="400" height="200" src="https://blog.imarticus.org/wp-content/uploads/2020/10/fdsa.gif">
+<h1 align="center">👋 Hi, I'm Narendra Bariha</h1>
+<h3 align="center">🚀 A Passionate Data Scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=narendrabariha&label=Profile%20views&color=0e75b6&style=flat" alt="narendrabariha" /> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/narendra bariha" target="blank"><img src="https://img.shields.io/twitter/follow/narendra bariha?logo=twitter&style=for-the-badge" alt="narendra bariha" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Tableau, SQL, Advance Excel, PowerBI, Machine Learning, Deep Learning, NLP, Artificial Intelligence.**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/narendrabariha](https://github.com/narendrabariha)
+### 🌟 About Me
+- 🌱 Currently mastering **Python, Tableau, SQL, Power BI, Machine Learning, Deep Learning, NLP, and AI**.
+- 👨‍💻 All my projects are available on [**GitHub**](https://github.com/narendrabariha).
+- 📫 Reach me at **narendrabarihan@gmail.com**.
+- 📄 Check my professional journey on [**LinkedIn**](https://www.linkedin.com/in/narendra-bariha/).
+- ⚡ **Fun Fact**: I make data fun! 😎😉  
 
-- 📫 How to reach me
- **narendrabarihan@gmail.com**
+---
 
-- 📄 Know about my experiences
-  [https://www.linkedin.com/in/narendra-bariha/](https://www.linkedin.com/in/narendra-bariha/)
+### 🌐 Let's Connect  
+<p align="left">
+  <a href="https://twitter.com/narendra_bariha" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/narendra_bariha?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/narendra-bariha/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
-- ⚡ Fun fact **I am funny😎😉**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
