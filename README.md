@@ -1,96 +1,40 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/배경/unsplash/abstract-technology-background_1.gif" width="100%" height="250" alt="Abstract Tech Landscape">
-</div>
+# 👋 Narendra Bariha | Data Science Virtuoso 🚀
 
-# 🎨 Narendra Bariha | Code Canvas Artist
+## 🌟 About Me
 
-## 🌈 Interactive Skill Palette
+I'm not just a data scientist; I'm a digital alchemist transforming raw data into golden insights! 
 
-<table>
-  <tr>
-    <td>
-      <details>
-        <summary>🐍 Python Mastery</summary>
-        
-        ```python
-        class DataExplorer:
-            def __init__(self):
-                self.creativity = "Infinite"
-                self.curiosity = "Boundless"
-            
-            def transform(self, data):
-                return insights.generate(data)
-        ```
-      </details>
-    </td>
-    <td>
-      <details>
-        <summary>🤖 AI Playground</summary>
-        
-        ```python
-        def ai_magic(challenge):
-            return (
-                machine_learning.solve(challenge) +
-                deep_learning.enhance() +
-                nlp.understand()
-            )
-        ```
-      </details>
-    </td>
-  </tr>
-</table>
+### 🔬 Tech Wizardry
+- 💻 Mastering the Art of:
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue?style=flat-square)
+  ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-green?style=flat-square)
+  ![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-red?style=flat-square)
 
-### 🎭 Personal Coding Performance
+### 🌈 My Data Science Superpowers
+- 📊 Turning complex data into compelling stories
+- 🧠 AI & Machine Learning Enthusiast
+- 📈 Transforming numbers into meaningful insights
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narendrabariha&theme=dracula&show_icons=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narendrabariha&theme=dracula" width="48%" />
-</div>
+### 🚀 Current Learning Odyssey
+- Diving deep into:
+  - Advanced Machine Learning Techniques
+  - Cutting-edge AI Algorithms
+  - Innovative Data Visualization Strategies
 
-### 🌟 Skill Constellation
+### 📬 Connect & Collaborate
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/narendra-bariha/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/narendrabariha)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:narendrabarihan@gmail.com)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,git,docker,tableau,powerapps" alt="Skill Icons" />
-</div>
+### 📊 My GitHub Saga
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narendrabariha&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=narendrabariha&show_icons=true&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=narendrabariha&theme=radical)
 
-### 🎲 Interactive Tech Roulette
-
-| Domain | Expertise Level | Passion Meter |
-|:---:|:---:|:---:|
-| Machine Learning | 🟢🟢🟢🟢⚪ | ❤️❤️❤️❤️💔 |
-| Deep Learning | 🟢🟢🟢🟢⚪ | ❤️❤️❤️❤️💔 |
-| Data Science | 🟢🟢🟢🟢⚪ | ❤️❤️❤️❤️💔 |
-| NLP | 🟢🟢🟢⚪⚪ | ❤️❤️❤️💔💔 |
-
-### 🌐 Quantum Connections
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/narendra-bariha/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Orbit-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:narendrabarihan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Digital%20Postcard-red?style=for-the-badge&logo=gmail" />
-  </a>
-</div>
-
-### 🎨 Project Canvas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=narendrabariha&theme=darkhub&no-frame=true&row=1&column=7" alt="Project Trophies" />
-</div>
-
-### 🌈 Creativity Spectrum
-
-- 🤖 AI/ML Innovations
-- 📊 Data Storytelling
-- 🧠 Algorithmic Art
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=narendrabariha&color=blueviolet&style=plastic" alt="Profile Exploration Count" />
-</div>
+### 🏆 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=narendrabariha&color=blueviolet)
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/abstract-technology-evolution/giphy.gif" width="300" height="150" alt="Tech Evolution Artistry">
-</div>
+**"Data is the new oil, and I'm the refinery turning it into pure insight magic! ✨"**
