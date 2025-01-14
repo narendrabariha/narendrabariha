@@ -1,4 +1,3 @@
-<img align="center" alt="AI Future" width="100%" src="https://github.com/narendrabariha/narendrabariha/blob/main/Future_of_Artificial_Intelligence.gif"/>
 
 <h1 align="center">👋 Hi, I'm Narendra Bariha</h1>
 <h3 align="center">🚀 A Passionate Data Scientist from India</h3>
