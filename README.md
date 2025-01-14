@@ -5,9 +5,6 @@
 
 ---
 
-<div align="center">
-  <img alt="Coding" width="60%" src="https://blog.imarticus.org/wp-content/uploads/2020/10/fdsa.gif"/>
-</div>
 
 ---
 
