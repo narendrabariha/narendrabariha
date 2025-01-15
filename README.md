@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Narendra Bariha</h1>
+<h1 align="center">🙏 Welcome, I'm Narendra Bariha</h1>
 <h3 align="center">🚀 A Passionate Data Scientist from India</h3>
 
 ---
