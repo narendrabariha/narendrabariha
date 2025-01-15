@@ -38,7 +38,12 @@
 </p>
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abdullah-Khan0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Khan0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Khan0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
 <div align="center">
   <h3>✨ “Data is the new oil, and I’m refining it every day.” ✨</h3>
 </div>
