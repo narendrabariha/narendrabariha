@@ -1,27 +1,3 @@
-<h1 align="center">🙏 Welcome, I'm Narendra Bariha</h1>
-<h3 align="center">🚀 A Passionate Data Scientist from India</h3>
-
----
-
-
-
-### 🌟 About Me
-- 🌱 Currently mastering **Python, Tableau, SQL, Power BI, Machine Learning, Deep Learning, NLP, and AI**.
-- 👨‍💻 All my projects are available on [**GitHub**](https://github.com/narendrabariha).
-- 📫 Reach me at **narendrabarihan@gmail.com**.
-- 📄 Check my professional journey on [**LinkedIn**](https://www.linkedin.com/in/narendra-bariha/).
-- ⚡ **Fun Fact**: I make data fun! 😎😉  
-
----
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/narendra bariha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="narendra bariha" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/narendra-bariha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narendra bariha" height="30" width="40" /></a>
-</p>
-
 <img align="center" alt="Coding" width="800" height="230" src="https://github.com/narendrabariha/narendrabariha/blob/main/Future_of_Artificial_Intelligence.gif">
 <h1 align="center">
   Hi 👋, I'm Narendra Bariha </h1>
