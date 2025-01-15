@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="800" height="230" src="https://github.com/narendrabariha/narendrabariha/blob/main/Future_of_Artificial_Intelligence.gif">
+
 <h1 align="center">
   Hi 👋, I'm Narendra Bariha </h1>
 <h3 align="center">A passionate Data Science from India</h3>
