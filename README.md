@@ -36,17 +36,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narendrabariha&"theme=vision-friendly-dark"  alt="narendrabariha" /></p>
 
 
-| <a href="https://github.com/narendrabariha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=narendrabariha&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Narendra's GitHub stats" /></a> | <a href="https://github.com/narendrabariha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendrabariha&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Top Repositories
-
-<a href="https://github.com/narendrabariha/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=narendrabariha&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/narendrabariha/narendrabariha.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=narendrabariha&repo=narendrabariha.github.io&theme=buefy" />
-</a>
 
 
 
