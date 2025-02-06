@@ -26,6 +26,9 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=narendrabariha&"theme=vision-friendly-dark" alt="narendrabariha" /></p>
 
+<p>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=narendrabariha&theme=vision-friendly-dark" alt="narendrabariha" />
+</p>
 
 
 
