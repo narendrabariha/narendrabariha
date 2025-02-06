@@ -10,15 +10,9 @@
 
 - 🌱 I’m currently learning **Python, Tableau, SQL, Advance Excel, PowerBI, Machine Learning, Deep Learning, NLP, Artificial Intelligence.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/narendrabariha](https://github.com/narendrabariha)
-
 - 📫 How to reach me
  **narendrabarihan@gmail.com**
 
-- 📄 Know about my experiences
-  [https://www.linkedin.com/in/narendra-bariha/](https://www.linkedin.com/in/narendra-bariha/)
-
-- ⚡ Fun fact **I am funny😎😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
