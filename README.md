@@ -64,5 +64,26 @@
 </p>
 
 
+<h2 align="center">Languages & Tools</h2>
+
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+  
+  <!-- BI & Data Visualization Tools -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+
+  <!-- AI & Machine Learning -->
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-ff9900?style=flat-square&logo=google&logoColor=white" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0055D4?style=flat-square&logo=googlecolab&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-DC143C?style=flat-square&logo=pytorch&logoColor=white" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/NLP-008080?style=flat-square&logo=amazonaws&logoColor=white" alt="NLP"/>
+
+  <!-- Web Technologies -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
 
