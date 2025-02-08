@@ -41,13 +41,13 @@
 <table width="100%">
   <tr>
     <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=narendrabariha&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" height="150" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=narendrabariha&show_icons=true&locale=en&layout=compact&theme=vision-friendly-white" height="150" alt="Top Languages"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=narendrabariha&show_icons=true&locale=en&theme=vision-friendly-dark" height="150" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=narendrabariha&show_icons=true&locale=en&theme=vision-friendly-white" height="150" alt="GitHub Stats"/>
     </td>
     <td align="right">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=narendrabariha&theme=vision-friendly-dark" height="150" alt="GitHub Streak"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=narendrabariha&theme=vision-friendly-white" height="150" alt="GitHub Streak"/>
     </td>
   </tr>
 </table>
