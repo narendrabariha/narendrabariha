@@ -33,9 +33,6 @@
 
 
 
-<p align="center"> <b>Profile Views<b> 
-<br>
-  <img src="https://profile-counter.glitch.me/{narendrabariha}/count.svg" alt="narendrabariha" />
-</p>
+
 
 
