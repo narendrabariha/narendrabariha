@@ -36,16 +36,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/narendrabariha" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="narendra bariha" height="30" width="40" />
+  <!-- Twitter -->
+  <a href="https://twitter.com/narendrabariha" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter - Narendra Bariha" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/narendra-bariha/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narendra bariha" height="30" width="40" />
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/narendra-bariha/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Narendra Bariha" height="30" width="40" />
   </a>
-  <a href="mailto:narendrabarihan@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mail_%28envelope%29_icon_%282013-2018%29.svg/120px-Mail_%28envelope%29_icon_%282013-2018%29.svg.png" alt="Email" height="30" width="40" />
+
+  <!-- Email -->
+  <a href="mailto:narendrabarihan@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email - narendrabarihan@gmail.com" height="30" width="40" />
   </a>
 </p>
+
 
 
 
