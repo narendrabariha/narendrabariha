@@ -36,19 +36,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Twitter -->
   <a href="https://twitter.com/narendrabariha" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter - Narendra Bariha" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/narendra-bariha/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Narendra Bariha" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-
-  <!-- Email -->
-  <a href="mailto:narendrabarihan@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email - narendrabarihan@gmail.com" height="30" width="40" />
+  <a href="mailto:narendrabarihan@gmail.com">
+    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
 
