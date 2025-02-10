@@ -80,7 +80,3 @@ Counting of visitors to this page
 </p>
 
 
-<a href="https://info.flagcounter.com/ap7">
-  <img src="https://s01.flagcounter.com/count2/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_200/viewers_1/labels_1/pageviews_1/flags_1/percent_0/" 
-  alt="Visitor Counter" border="0">
-</a>
