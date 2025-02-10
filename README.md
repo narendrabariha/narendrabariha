@@ -69,10 +69,6 @@
 
 
 
-## Thanks for visiting
-
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/narendrabariha/count.svg">
 
 Counting of visitors to this page
 
@@ -83,5 +79,68 @@ Counting of visitors to this page
   <img src="https://profile-counter.glitch.me/{narendrabariha}/count.svg" alt="narendrabariha" />
 </p>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/narendrabariha&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced Visitor Counter</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        #counter {
+            font-size: 24px;
+            font-weight: bold;
+            color: #673AB7;
+        }
+        .visitor-info {
+            margin-top: 20px;
+            font-size: 16px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Website Visitor Counter</h1>
+    <p>Total Visitors: <span id="counter">Loading...</span></p>
+
+    <div class="visitor-info" id="visitor-info">Fetching visitor details...</div>
+
+    <script>
+        // Function to get and update visitor count
+        function updateVisitorCount() {
+            let count = localStorage.getItem("visitorCount");
+            if (!count) {
+                count = 1;
+            } else {
+                count = parseInt(count) + 1;
+            }
+            localStorage.setItem("visitorCount", count);
+            document.getElementById("counter").textContent = count;
+        }
+
+        // Function to fetch visitor details using an API
+        async function fetchVisitorDetails() {
+            try {
+                let response = await fetch("https://ipapi.co/json/");
+                let data = await response.json();
+                let visitorInfo = `You are visiting from ${data.city}, ${data.country_name}`;
+                document.getElementById("visitor-info").textContent = visitorInfo;
+            } catch (error) {
+                document.getElementById("visitor-info").textContent = "Unable to fetch visitor details.";
+            }
+        }
+
+        // Initialize functions
+        updateVisitorCount();
+        fetchVisitorDetails();
+    </script>
+
+</body>
+</html>
 
