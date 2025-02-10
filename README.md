@@ -29,7 +29,7 @@
 
 - 📫 How to reach me
  **narendrabarihan@gmail.com**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=narendrabariha&bg_color=121212&color=9e9e9e&line=D1C4E9&point=9575CD&title_color=9e9e9e&area_color=673AB7&hide_border=true&area=false&radius=0" width="100%" height="200px">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=narendrabariha&bg_color=121212&color=9e9e9e&line=D1C4E9&point=9575CD&title_color=9e9e9e&area_color=673AB7&hide_border=true&area=false&radius=0" width="100%" height="100px">
 
 
 <h3 align="left">Connect with me:</h3>
