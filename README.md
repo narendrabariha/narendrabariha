@@ -22,8 +22,10 @@
   </tr>
 </table>
 
-![narendrabariha GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=narendrabariha&bg_color=121212&color=9e9e9e&line=D1C4E9&point=9575CD&title_color=9e9e9e&area_color=673AB7&hide_border=true&area=false&radius=0&height=500)
 
+<div style="height: 500px; overflow: hidden;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=narendrabariha&bg_color=121212&color=9e9e9e&line=D1C4E9&point=9575CD&title_color=9e9e9e&area_color=673AB7&hide_border=true&area=false&radius=0" alt="GitHub Activity Graph" />
+</div>
 
 
 | ![narendrabariha GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=narendrabariha&bg_color=121212&color=9e9e9e&line=D1C4E9&point=9575CD&title_color=9e9e9e&area_color=673AB7&hide_border=true&area=false&radius=0) |
