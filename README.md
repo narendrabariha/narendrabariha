@@ -36,9 +36,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/narendra bariha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="narendra bariha" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/narendra-bariha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narendra bariha" height="30" width="40" /></a>
+  <a href="https://twitter.com/narendrabariha" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter - Narendra Bariha" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/narendra-bariha/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Narendra Bariha" height="30" width="40" />
+  </a>
+  <a href="mailto:narendrabarihan@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email - Narendra Bariha" height="30" width="40" />
+  </a>
 </p>
+
 
 <h2 align="center"> Languages & Tools</h2>
 
@@ -70,9 +78,7 @@
 
 
 
-Counting of visitors to this page
 
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 <p align="center"> <b>Thanks for visiting<b> 
 <br>
