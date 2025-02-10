@@ -66,7 +66,14 @@
 
 
 
+## Thanks for visiting
 
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/narendrabariha/count.svg">
+
+Counting of visitors to this page
+
+<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 <p align="center"> <b>Profile Views<b> 
 <br>
